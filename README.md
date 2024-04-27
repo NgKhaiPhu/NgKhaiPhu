@@ -1,5 +1,5 @@
 # About me
-- 3rd year, University of Science, HCMC
+- 4th year, University of Science, HCMC
 - Major in Computer Science - Artificial Intelligence
 - Eager to learn more about AI/ML
 - Email: nkphu243373@gmail.com
