@@ -1,9 +1,7 @@
 # About me
-- 4th year, University of Science, HCMC
-- Major in Computer Science - Artificial Intelligence
-- Eager to learn more about AI/ML
-- Email: nkphu243373@gmail.com
-
+- Graduate, University of Science, HCMC
+- Bachelor’s in Computer Science - Artificial Intelligence
+- Passionate about AI/ML, always eager to learn and explore new technologies
 <!--
 **NgKhaiPhu/NgKhaiPhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
